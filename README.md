@@ -1,5 +1,7 @@
 # Sim Cleaner
 
+> **Retired 2026-11-03.** This repository is to be archived read-only on Rick's word of 2026-11-02 and nothing in it is maintained. A Windows one-shot tool from October 2026; its evidence folder stands as recorded and nothing references it.
+
 ## 0.3.2: single-file scanning and evidence update
 
 The new `FileScan` action scans one literal local file through the installed,
